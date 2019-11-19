@@ -1,0 +1,1 @@
+Learning a lot. I'm 3 days in and havent made a whole lot of progress yet, but its get very fun! Ive made 2 shitty websites and learned the very basics of html and css. Im very excited for this project, im learning a lot about GIT and GITHUB, and the language to learn for writing websites. hopefully i learn a lot doing this project!
